@@ -13,7 +13,8 @@
 
 ```
 <mods>
-<identifier type="local">{{cells["identifier"].value}}</identifier>
+<identifier type="local">{{cells["volume_issue"].value}}</identifier>
+<identifier type="pid">{{cells["PID"].value}}</identifier>
 <titleInfo><title>{{cells['title'].value}}</title></titleInfo>
 <abstract>Periodical published twice a month by the disabled ex-service men in training at the University of Tennessee</abstract>
 <name type="corporate" valueURI="http://id.loc.gov/authorities/names/n80003887">
