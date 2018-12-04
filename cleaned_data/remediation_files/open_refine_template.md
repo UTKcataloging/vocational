@@ -1,4 +1,4 @@
-# Open Refine Template for Anna Catherine Wiley Sketches
+# Open Refine Template for the Vocational Voice
 
 
 ## Template
