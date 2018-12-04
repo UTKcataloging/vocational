@@ -4,10 +4,10 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">voice_180</identifier>
-   <identifier type="pid">voice:180</identifier>
+   <identifier type="local">vocational_vol1-no8</identifier>
+   <identifier type="pid">voice:28</identifier>
    <titleInfo>
-      <title>The vocational voice, volume 1, number 11</title>
+      <title>The vocational voice, volume 1, number 8</title>
    </titleInfo>
    <abstract>Periodical published twice a month by the disabled ex-service men in training at the University of Tennessee</abstract>
    <name type="corporate"
@@ -22,8 +22,8 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
    </physicalDescription>
    <originInfo>
-      <dateIssued>Dec 21, 1922</dateIssued>
-      <dateIssued encoding="edtf">1922-12-21</dateIssued>
+      <dateIssued>Nov 16, 1922</dateIssued>
+      <dateIssued encoding="edtf">1922-11-16</dateIssued>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
